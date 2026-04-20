@@ -1,0 +1,9 @@
+data/
+__pycache__/
+*.pyc
+results/*.png
+!results/gate_distribution.png
+.DS_Store
+.venv/
+env/
+venv/
